@@ -2,11 +2,11 @@
 
 #### 球队账目明细
 
-[https://docs.google.com/spreadsheets/d/1zpfIHpkufwnjg9-GOKvzqMRtkH0rirxJ/edit?usp=sharing\&ouid=117858439465653380884\&rtpof=true\&sd=true](https://docs.google.com/spreadsheets/d/1zpfIHpkufwnjg9-GOKvzqMRtkH0rirxJ/edit?usp=sharing\&ouid=117858439465653380884\&rtpof=true\&sd=true)
+https://docs.google.com/spreadsheets/d/1zpfIHpkufwnjg9-GOKvzqMRtkH0rirxJ/edit?usp=sharing\&ouid=117858439465653380884\&rtpof=true\&sd=true
 
 #### 2022NJ夏联数据
 
-[https://docs.google.com/spreadsheets/d/1-dQi7G1Dw7DzvT4ZgN9leSkHeauJ\_ylptZg0wNCAjVY/edit](https://docs.google.com/spreadsheets/d/1-dQi7G1Dw7DzvT4ZgN9leSkHeauJ\_ylptZg0wNCAjVY/edit)
+https://docs.google.com/spreadsheets/d/1-dQi7G1Dw7DzvT4ZgN9leSkHeauJ\_ylptZg0wNCAjVY/edit
 
 #### 2022NJ夏联猎人赛程
 
