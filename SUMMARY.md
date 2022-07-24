@@ -17,3 +17,4 @@
 * [2022-02-12 VS 桥水 3:1](20220212-vs-qiao-shui-31.md)
 * [References](references.md)
 * [2022-07-23 VS 桥水 0:4](20220723-vs-qiao-shui-04.md)
+* [2022-07-16 VS 黑蛇 0:4](20220716-vs-hei-she-04.md)
