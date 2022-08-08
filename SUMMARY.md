@@ -19,3 +19,4 @@
 * [2022-04-10 VS 黑蛇 2:2](20220410-vs-hei-she-22.md)
 * [2022-02-12 VS 桥水 3:1](20220212-vs-qiao-shui-31.md)
 * [References](references.md)
+* [2022-08-06 VS 火庄 2:7](20220806-vs-huo-zhuang-27.md)
