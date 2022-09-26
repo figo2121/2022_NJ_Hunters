@@ -2,6 +2,7 @@
 
 * [球星数据](README.md)
 * [比赛数据](bi-sai-shu-ju.md)
+* [2022-09-24 VS 桥水 3:0](20220924-vs-qiao-shui-30.md)
 * [2022-08-27 队内养生](20220827-dui-nei-yang-sheng.md)
 * [2022-08-20 队内养生 - 徐升告别赛](20220820-dui-nei-yang-sheng-xu-sheng-gao-bie-sai.md)
 * [2022-08-13 VS 日火 1:3](20220813-vs-ri-huo-13.md)
