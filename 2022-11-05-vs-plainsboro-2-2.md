@@ -56,7 +56,7 @@ https://youtu.be/7r8F6Ev\_prc
 
 https://youtu.be/DQtLTGsETHY
 
-
+**对方开球趁我方立足未稳先进一球，没有录上**
 
 7:08 对方手球，进球无效 （Gopro视角）&#x20;
 
