@@ -4,6 +4,7 @@
 * [比赛数据](bi-sai-shu-ju.md)
 * [2022-11-05 VS Plainsboro 2:2](2022-11-05-vs-plainsboro-2-2.md)
 * [2022-10-29 VS 联队 练习赛 2:3](20221029-vs-lian-dui-lian-xi-sai-23.md)
+* [2022-10-23 VS Rutgers 2:1](2022-10-23-vs-rutgers-2-1.md)
 * [2022-09-24 VS 桥水 3:0](20220924-vs-qiao-shui-30.md)
 * [2022-08-27 队内养生](20220827-dui-nei-yang-sheng.md)
 * [2022-08-20 队内养生 - 徐升告别赛](20220820-dui-nei-yang-sheng-xu-sheng-gao-bie-sai.md)
