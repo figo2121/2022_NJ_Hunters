@@ -5,11 +5,11 @@ description: >-
 
 # 2022-07-02 VS 火庄 2:0
 
-出场阵容：鹏飞，宇洋，吴强，欧阳，James，亚飞，赵康，嘉斌，Shawn，Brian，徐升，永冀，信伟，乐游，徐君，圆脸，商鹏，Joe，陈华，Kaston
+**出场阵容：鹏飞，宇洋，吴强，欧阳，James，亚飞，赵康，嘉斌，Shawn，Brian，徐升，永冀，信伟，乐游，徐君，圆脸，商鹏，Joe，陈华，Kaston**
 
-进球：Kaston, 乐游
+**进球：Kaston, 乐游**
 
-助攻：商鹏(2)
+**助攻：商鹏(2)**
 
 https://youtu.be/zMK4DAoBMFQ
 
