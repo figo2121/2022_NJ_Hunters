@@ -1,7 +1,7 @@
 # Table of contents
 
 * [年度盘点](README.md)
-* [球星数据](<README (1).md>)
+* [球星数据](README.md)
 * [比赛数据](bi-sai-shu-ju.md)
 * [2022-12-16 室内场圣诞大战（非正赛）](20221216-shi-nei-chang-sheng-dan-da-zhan-fei-zheng-sai.md)
 * [2022-12-17 养生大战（非正赛）](20221217-yang-sheng-da-zhan-fei-zheng-sai.md)
